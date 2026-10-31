@@ -6,3 +6,4 @@ Repository dedicated to open source engineering, documentation, unit test suites
 - Automated CI/CD workflows
 - Unit testing patterns
 - Open source achievements tracking
+YOLO Achievement
