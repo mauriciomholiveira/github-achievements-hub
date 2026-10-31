@@ -8,3 +8,5 @@ Repository dedicated to open source engineering, documentation, unit test suites
 - Open source achievements tracking
 YOLO Achievement
 Pair Extraordinaire Co-Authored Feature
+
+## Pair Programming Session
